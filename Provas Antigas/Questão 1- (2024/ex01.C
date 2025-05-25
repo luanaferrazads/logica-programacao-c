@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
-    float diaria, aumento, total, /*incremento*/;
-    int dataEntrada, /*dias*/;
+    float diaria, aumento, total; /*incremento*/
+    int dataEntrada; /*dias*/
     printf("Informe a data de entrada:\n");
     scanf("%d", &dataEntrada);
     printf("Informe o valor da diaria:\n");
